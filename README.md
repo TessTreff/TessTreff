@@ -1,5 +1,5 @@
 
-<img src*"/gebruikers/tessy/download/2.png" alt*"banner"/>
+<img src*"C:\Users\tessy\Documents\GitHub\TessTreff" alt*"banner"/>
 
 ### Hi there 👋
 
