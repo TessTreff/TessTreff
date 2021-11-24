@@ -1,5 +1,5 @@
 
-<img src*"/2.png" alt*"banner"/>
+<img src*"/gebruikers/tessy/download/2.png" alt*"banner"/>
 
 ### Hi there 👋
 
